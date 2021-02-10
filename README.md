@@ -1,4 +1,4 @@
-# Graal's Sandbox 
+# Sandbox for GraalVM
 
-Playground for Graal's Native Image tool.
+Playground for GraalVM's Native Image tool.
 Mostly to demonstrate issues/workarounds for common scenarios.
